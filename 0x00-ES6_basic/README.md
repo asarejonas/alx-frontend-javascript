@@ -1,1 +1,1 @@
-# ES6 Bacics
+# Alx FrontEnd JavaScript
